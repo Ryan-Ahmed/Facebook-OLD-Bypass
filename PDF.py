@@ -1,6 +1,6 @@
-#Facebook BADBAKTA SABIR 
-#AUTHOR BADBAKTA SABIR 103AF
-#Github SABIR
+#Facebook RYAN AHMED 
+#AUTHOR RYAN AHMED
+#Github RYAN-AHMED
 #Tols Random
 #Whatsapp +9377 993 4541
 import marshal
